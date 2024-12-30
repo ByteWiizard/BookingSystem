@@ -1,0 +1,92 @@
+body{ margin:0px; padding:0px; font-size:14px !important; color:#333 !important; font-family: 'Open Sans', sans-serif !important;}
+td { line-height: 35px;}
+.ac{ cursor: pointer; cursor: hand; }
+.booking-box{background-color: #eeeeee;}
+.today{background-color: #9CF4FC;}
+.booked{background-color:blue;}
+
+
+.tabl_1 table, .tabl_2 table, .tabl_3 table, .tabl_4 table { width: 100%; height:250px;}
+.tabl_1, .tabl_2, .tabl_3, .tabl_4 { margin-bottom:30px;}
+
+#success-msg{ text-align:center; font-size:20px; text-transform:uppercase; font-family: 'Open Sans', sans-serif;}
+
+.topCon{ padding:20px 0px;}
+.prev-next { padding:10px 0px;}
+.remove_tab{ text-align:center;}
+.remove_tab button{ background: #242424; border: medium none; color: #fff; line-height: 30px; padding: 0 15px;}
+.back_booking{ text-align:center;}
+.back_booking button{ background: #242424; border: medium none; color: #fff; line-height: 30px; padding: 0 15px;}
+.leftButton {float:left;}
+.leftButton button { background: #242424; border: medium none; color: #fff; line-height: 30px; padding: 0 15px;}
+.leftButton button .fa{ margin-right:10px;}
+
+.rightButton {float:right;}
+.rightButton button { background: #242424; border: medium none; color: #fff; line-height: 30px; padding: 0 15px;}
+.rightButton button .fa{ margin-left:10px;}
+
+.before-today .ac{ pointer-events: none; }
+.before-today { pointer-events: auto; }
+.booking-box.complete .ac{ pointer-events: none; }
+.booking-box.complete { pointer-events: auto; }
+
+.booking-box.selected { background: rgb(51, 64, 52) none repeat scroll 0 0; color: #fff; border: 1px solid #343434;}
+td.selected div.active { background: rgb(255, 0, 0) none repeat scroll 0 0; color: rgb(255, 255, 255); display: inline-block; padding: 0 5px; width: 100%;}
+td.booking-box div.active { background: rgb(255, 0, 0) none repeat scroll 0 0; color: rgb(255, 255, 255); display: inline-block; padding: 0 5px; width: 100%;}
+td.today div.active { background: rgb(255, 0, 0) none repeat scroll 0 0; color: rgb(255, 255, 255); display: inline-block; padding: 0 5px; width: 100%;}
+complete { background: #de181e none repeat scroll 0 0; border: 1px solid #3c3939; color: #fff;}
+end { -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-right-colors: none; -moz-border-top-colors: none; background: #eeeeee url("../images/am.png") repeat scroll right center / cover ; border-color: #888 #333 #333; border-image: none; border-style: solid; border-width: 1px; color: #000;}
+start{		background:#eeeeee url(../images/pm.png) repeat scroll right center / cover; color: #000; border: 1px solid #333;border-bottom: 1px solid #888;}
+.hea{	background: rgb(51, 51, 51) none repeat scroll 0% 0%;color: rgb(255, 255, 255);}.hea1{	background: rgb(51, 51, 51) none repeat scroll 0% 0%;color: rgb(255, 255, 255);}
+
+.cal_details{ text-align:center;}
+.cal_details img { display: inline-block; margin-left: 8px; width: 20%; height: 45%;}
+.cal_details ul li { background: #f2f2f2; display: inline-block; font-size: 14px; font-weight: normal; list-style: none; padding: 5px 0; text-align: center; text-transform: uppercase;}
+.cal_details ul { display: inline-table; margin-left: 10px;}
+.new-show { margin-top: 40px;}
+/*
+#table-1 .ac{ pointer-events: none; }
+#table-1 { pointer-events: auto; }
+*/
+
+/* form css */
+.ui-dialog{ height:320px !important;}
+.ui-dialog .ui-dialog-content { height: auto !important;}
+.ui-dialog .form-group{ overflow:hidden !important; margin:15px 0 0px !important;}
+.ui-dialog .form-group label { font-size: 14px; font-weight: normal; letter-spacing: normal !important; margin: 0 !important; text-transform: capitalize;}
+.ui-dialog .form-group input[type="text"] { border: 1px solid #bbb; border-radius: 0 !important; font-size: 12px; padding: 5px 10px !important; width: 100%;}
+.ui-dialog .form-group input[type="email"] { border: 1px solid #bbb; border-radius: 0 !important; font-size: 12px; padding: 5px 10px !important; width: 100%;}
+.ui-dialog .form-group input[type="submit"] { border: 1px solid #242424; margin: 10px auto; text-align: center; width: 100px; height: 35px; text-transform: uppercase; border-radius: 0px; padding: 0px !important; background: #242424; color: #fff;}
+.ui-dialog .form-group input[type="submit"]:hover{ border: 1px solid #242424; color:#242424; background:none;}
+
+
+.ui-dialog .form-group input[type="text"]:focus { border-color: #bbb; box-shadow: none !important; outline: 0 none;}
+.ui-dialog .form-group input[type="email"]:focus { border-color: #bbb; box-shadow: none !important; outline: 0 none;}
+
+.booking-box.start.end {
+  background: url("../images/start-end-book.jpg") repeat !important ;
+  pointer-events: none;
+}
+.complete {
+    background: #ff0000;
+}
+#call-box-s .bg-r{ height:100px;}
+	#call-box-s .bg-r img{ width:100%; height:100%;}
+	#call-box-s td{ width:14.28%; height:40px; float:left; box-shadow:1px 1px 0px 0px #333; position:relative;}
+	#call-box-s .cell5{ width:71.4%; height:50px; float:left; box-shadow:1px 1px 0px 0px #333; position:relative; text-align:center; line-height:50px;} 
+	#call-box-s .first-half-book{ display:block; width:100%; height:100%; margin:0px; padding:0px; position:absolute; z-index:1;}
+	#call-box-s .first-half-book img{ width:100%; height:100%; position:absolute; z-index:0; }
+	#call-box-s .full-book{ display:block; width:100%; height:100%; margin:0px; padding:0px ; position:absolute; color:#fff !important;}
+	#call-box-s .full-book img{ width:100%; height:100%; position:absolute; z-index:0; }
+	#call-box-s .last-half-book{ display:block; width:100%; height:100%; margin:0px; padding:0px; position:absolute;}
+	#call-box-s .last-half-book img{ width:100%; height:100%; position:absolute; z-index:0; }
+	#call-box-s .cell{ width:100%; height:100%; display:block; position:absolute; z-index:2; text-align:center; line-height:40px; font-size:14px; font-family:arial; font-weight:normal; border-left: 1px solid #333;
+    border-top: 1px solid #333;}
+	#call-box-s table{box-shadow:1px 1px 0px 0px #333;}
+	#call-box-s .complete div{ color:#fff; }	
+	#call-box-s .booking-box.start.end{ color:#FF0;}
+	 #call-box-s .booking-box.start.end .ac{
+  pointer-events: none;}
+   #call-box-s .booking-box.start.end{
+	   pointer-events: auto;
+   }

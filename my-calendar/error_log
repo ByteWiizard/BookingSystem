@@ -1,0 +1,201 @@
+[06-Dec-2018 21:10:52 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/booking.php on line 2
+[06-Dec-2018 21:10:52 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/booking.php on line 3
+[06-Dec-2018 21:10:52 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/booking.php on line 4
+[06-Dec-2018 21:10:52 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/booking.php on line 5
+[06-Dec-2018 21:10:52 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/booking.php on line 6
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-03 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 113
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-04 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 113
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-05 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 113
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2018-12-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-06 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-07 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-08 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-09 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-10 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-11 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-12 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-13 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-14 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-15 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-16 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-17 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-18 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-19 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-20 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-21 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-21 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-21 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-22 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-22 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-22 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-23 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-23 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-23 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-24 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-24 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-24 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-25 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-25 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-25 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-26 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-26 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-26 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-27 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-27 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-27 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-28 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-28 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-28 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-29 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-29 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-29 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-30 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-30 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-30 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-31 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 108
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-31 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 109
+[06-Dec-2018 21:10:54 UTC] PHP Notice:  Undefined index: 2019-01-31 in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/cal-library.php on line 111
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:14:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zioncoun_asht'@'localhost' (using password: YES) in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 8
+[06-Dec-2018 21:14:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 22
+[06-Dec-2018 21:14:21 UTC] PHP Notice:  Trying to get property of non-object in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 28
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:14:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zioncoun_asht'@'localhost' (using password: YES) in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 8
+[06-Dec-2018 21:14:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 22
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Trying to get property of non-object in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 28
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:14:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zioncoun_asht'@'localhost' (using password: YES) in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 8
+[06-Dec-2018 21:14:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 22
+[06-Dec-2018 21:14:24 UTC] PHP Notice:  Trying to get property of non-object in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 28
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:15:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zioncoun_asht'@'localhost' (using password: YES) in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 8
+[06-Dec-2018 21:15:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 22
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Trying to get property of non-object in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 28
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:15:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zioncoun_asht'@'localhost' (using password: YES) in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 8
+[06-Dec-2018 21:15:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 22
+[06-Dec-2018 21:15:36 UTC] PHP Notice:  Trying to get property of non-object in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 28
+[06-Dec-2018 21:16:57 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:16:57 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:16:57 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:16:57 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:16:57 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:17:18 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:17:18 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:17:18 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:17:18 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:17:18 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:18:31 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:18:31 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:18:31 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:18:31 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:18:31 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:18:49 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:18:52 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:18:52 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:18:52 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:18:52 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:19:18 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:19:18 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:19:18 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:19:18 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:19:18 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
+[06-Dec-2018 21:19:33 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 2
+[06-Dec-2018 21:19:33 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 3
+[06-Dec-2018 21:19:33 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 4
+[06-Dec-2018 21:19:33 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 5
+[06-Dec-2018 21:19:33 UTC] PHP Notice:  Use of undefined constant dbprefix - assumed 'dbprefix' in /home/greatwebsnew/public_html/ronald-notboms/my-calendar/checking-booking.php on line 6
